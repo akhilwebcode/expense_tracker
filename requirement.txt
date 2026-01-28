@@ -1,0 +1,10 @@
+asgiref==3.11.0
+distlib==0.4.0
+Django==6.0.1
+filelock==3.19.1
+mysqlclient==2.2.7
+platformdirs==4.4.0
+psycopg2==2.9.11
+sqlparse==0.5.5
+tzdata==2025.3
+virtualenv==20.34.0
