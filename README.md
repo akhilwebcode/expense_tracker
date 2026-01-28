@@ -47,7 +47,7 @@ Yeh project Django framework par based hai aur MySQL / PostgreSQL database ka us
 ### how to use
 - Clone the repository: `git clone https://github.com/your-username/expense-tracker.git`
 - Navigate to the project directory: `cd expense-tracker`
-- Install dependencies: `pip install -r requirements.txt`
+- Install dependencies: `pip install -r requirement.txt`
 - Set up the database: `python manage.py migrate`
 - Create a superuser: `python manage.py createsuperuser`
 - Run the development server: `python manage.py runserver`
