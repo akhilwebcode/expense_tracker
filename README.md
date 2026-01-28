@@ -64,4 +64,4 @@ Akhilesh Kumar<br>
 <a href="https://github.com/stylewebcode">github swc</a><br>
 <a href="https://github.com/akhilwebcode">github awc</a><br>
 <a href="https://www.youtube.com/@akhilwebcode">youtube awc</a><br>
-<a href="https://www.youtube.com/@stylewebcode">youtube awc</a><br>
+<a href="https://www.youtube.com/@stylewebcode">youtube swc</a><br>
