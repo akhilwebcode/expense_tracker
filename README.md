@@ -31,6 +31,17 @@ Yeh project Django framework par based hai aur MySQL / PostgreSQL database ka us
 - MySQL / PostgreSQL (database)
 - HTML, CSS, JavaScript (frontend)
 - Bootstrap (frontend framework)
+- signup.html ![Expense Tracker Screenshot](Images/2.png)
+- signup process ![Expense Tracker Screenshot](Images/3.png)
+- login html ![Expense Tracker Screenshot](Images/1.png)
+- login process ![Expense Tracker Screenshot](Images/4.png)
+- index.html ![Expense Tracker Screenshot](Images/5.png)
+- add description ![Expense Tracker Screenshot](Images/6.png)
+- add income ![Expense Tracker Screenshot](Images/7.png)
+- expense delete ![Expense Tracker Screenshot](Images/8.png)
+- add expense ![Expense Tracker Screenshot](Images/9.png)
+- final view ![Expense Tracker Screenshot](Images/10.png)
+
 
 
 ### how to use
@@ -44,4 +55,13 @@ Yeh project Django framework par based hai aur MySQL / PostgreSQL database ka us
 
 
 ### final
-![Expense Tracker Screenshot](images/10.png)
+![Expense Tracker Screenshot](Images/10.png)
+
+### author
+Akhilesh Kumar
+<a href="mailto:akhilwebcode@gmail.com">email</a>
+<a href="https://www.linkedin.com/in/stylewebcode/">linkedin</a>
+<a href="https://github.com/stylewebcode">github swc</a>
+<a href="https://github.com/akhilwebcode">github awc</a>
+<a href="https://www.youtube.com/@akhilwebcode">youtube awc</a>
+<a href="https://www.youtube.com/@stylewebcode">youtube awc</a>
