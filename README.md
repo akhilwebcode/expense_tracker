@@ -7,7 +7,7 @@ Overall, Expense Tracker ek practical aur real-world project hai jo personal fin
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Tools and Technologies](#tools--technologies)
+- [Tools and Technologies](#tools-and-technologies)
 - [how to use](#how-to-use)
 - [final](#final)
 - [author](#author)
