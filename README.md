@@ -58,10 +58,10 @@ Yeh project Django framework par based hai aur MySQL / PostgreSQL database ka us
 ![Expense Tracker Screenshot](Images/10.png)
 
 ### author
-Akhilesh Kumar
-<a href="mailto:akhilwebcode@gmail.com">email</a>
-<a href="https://www.linkedin.com/in/stylewebcode/">linkedin</a>
-<a href="https://github.com/stylewebcode">github swc</a>
-<a href="https://github.com/akhilwebcode">github awc</a>
-<a href="https://www.youtube.com/@akhilwebcode">youtube awc</a>
-<a href="https://www.youtube.com/@stylewebcode">youtube awc</a>
+Akhilesh Kumar<br>
+<a href="mailto:akhilwebcode@gmail.com">email</a><br>
+<a href="https://www.linkedin.com/in/stylewebcode/">linkedin</a><br>
+<a href="https://github.com/stylewebcode">github swc</a><br>
+<a href="https://github.com/akhilwebcode">github awc</a><br>
+<a href="https://www.youtube.com/@akhilwebcode">youtube awc</a><br>
+<a href="https://www.youtube.com/@stylewebcode">youtube awc</a><br>
